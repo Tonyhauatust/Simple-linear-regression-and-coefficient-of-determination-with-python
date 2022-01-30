@@ -1,0 +1,1 @@
+# Simple-linear-regression-and-coefficient-of-determination-with-python
